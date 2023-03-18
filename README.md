@@ -8,7 +8,8 @@
 
 - 🏫 A Second year graduate student | DHU 👉 FDU 
 - 🏃 **Open for summer internship opportunities now**
-- 🔭 Currently working on DolphinScheduler & Spark
+- 🤨 Currently learning Distributed System & Kubernetes
+- 🔭 Currently working on Apache DolphinScheduler & Spark
 - 🌱 Looking to collaborate on more open-source projects, especially in the field of distributed computing
 - 📫 Feel free to email me, looooooove to make friends
 - ⚡ Fun fact: I'm a passionate Arsenal fan, never miss Arsenal football match !
