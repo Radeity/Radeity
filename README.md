@@ -2,7 +2,7 @@
 ---
 [![Mail Badge](https://img.shields.io/badge/E--mail-wangweirao16%40gmail.com-purple.svg)](mailto:wangweirao16@gmail.com)
 
-<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=Radeity&theme=omni&count_private=true&card_width=200" />
+<img align="right" alt="GIF" src="https://github-readme-stats-n1fc.vercel.app/api?username=Radeity&theme=omni&count_private=true&card_width=200" />
 
 ### I'm Radeity (Aaron Wang)
 
