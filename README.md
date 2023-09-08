@@ -7,7 +7,6 @@
 ### I'm Radeity (Aaron Wang)
 
 - 🏫 A Second year graduate student | DHU 👉 FDU 
-- 🏃 **Open for 2024 job opportunities now**
 - 🤨 Currently learning Distributed System & Kubernetes
 - 🔭 Currently working on DolphinScheduler & Spark
 - 🌱 Looking to collaborate on more open-source projects, especially in the field of distributed computing
