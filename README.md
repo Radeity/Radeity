@@ -6,13 +6,13 @@
 
 ### I'm Radeity (Aaron Wang)
 
-- 🏫 A Third year graduate student | DHU 👉 FDU 
+- 🏫 A Third year graduate student | DHU / FDU 👉 Alibaba
 - 🤨 Currently learning Distributed System & Kubernetes
 - 🔭 Currently working on DolphinScheduler & HugeGraph
-- 🌱 Looking to collaborate on more open-source projects, especially in the field of distributed computing
+- 🌱 Looking to collaborate on more open-source projects
 - 📫 Feel free to email me, looooooove to make friends
   
-- ⚡ Fun fact: I'm a passionate Arsenal fan, never miss Arsenal football match !
+- ⚡ Fun fact: I'm a passionate Arsenal fan(10Y+), never miss Arsenal football match!
 
 <img width="1047" alt="image" src="https://user-images.githubusercontent.com/45198818/226109815-91016d0e-e919-44dc-8371-8990ac4269e6.png">
 
